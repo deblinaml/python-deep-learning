@@ -1,0 +1,14 @@
+Here we will see how to build and then optimize a CNN.
+Explanations about CNN will be updated soon.
+
+For further reading, here are some amazing references
+1. Yann LeCun et al., 1998, Gradient-Based Learning Applied to Document Recognition
+2. Jianxin Wu, 2017, Introduction to Convolutional Neural Networks
+3. C.-C. Jay Kuo, 2016, Understanding Convolutional Neural Networks with A Mathematical Model
+4. Kaiming He et al., 2015, Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification
+5. Dominik Scherer et al., 2010, Evaluation of Pooling Operations in Convolutional Architectures for Object Recognition
+6. Adit Deshpande, 2016, The 9 Deep Learning Papers You Need To Know About (Understanding CNNs Part 3)
+7. Rob DiPietro, 2016, A Friendly Introduction to Cross-Entropy Loss
+8. Peter Roelants, 2016, How to implement a neural network Intermezzo 2
+
+Source: Superdatascience.com
