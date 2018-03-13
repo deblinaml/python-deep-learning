@@ -1,0 +1,2 @@
+Refer to the Restricted Botzmann Machine Folder in this repository which contains the ml-1m and ml-100k folders.
+The autoencoder works on the same set.
